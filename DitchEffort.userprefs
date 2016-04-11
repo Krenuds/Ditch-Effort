@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_SCRIPT\PlayerManager.cs">
+    <Files>
+      <File FileName="Assets\_SCRIPT\PowerUpMachine.cs" Line="22" Column="27" />
+      <File FileName="Assets\_SCRIPT\PlayerController.cs" Line="33" Column="39" />
+      <File FileName="Assets\_SCRIPT\PowerUpController.cs" Line="19" Column="1" />
+      <File FileName="Assets\_SCRIPT\PlayerManager.cs" Line="30" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
